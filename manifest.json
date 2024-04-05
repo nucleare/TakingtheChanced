@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Chanced Hourly Bonus Collector",
+  "version": "1.0",
+  "permissions": ["storage", "scripting", "tabs", "alarms"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon2.png",
+      "48": "icon2.png",
+      "128": "icon2.png"
+    }
+  },
+  "icons": {
+    "16": "icon2.png",
+    "48": "icon2.png",
+    "128": "icon2.png"
+  }
+}
