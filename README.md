@@ -46,3 +46,11 @@ If you are already familiar with the concept, it's a site that's like a younger 
 One other thing that sets them apart from the rest, including Chumba, WoW Vegas, GlobalPoker, etc. is that their daily bonus isn't a daily bonus, it's an hourly bonus. Where, as of April 2024, consists of 1000 GC and 0.1 SC. However, their redemption minimnum is 100 SC.
 
 If you're not already on the site, use [this link](https://www.chanced.com/c/4zfq3z) to sign-up and get 2.0 SC to start after verification. Sweepstakes play (or SC) is only open to US Residents (excluding the states of Idaho, Michigan, Nevada, Kentucky, and Washington).
+
+_____
+
+*This extension does not offer any sort of player advantage nor has it been designed to act as a system to replace your online habits.*
+[Get 400,000 Gold Coins and 500 Super Coins at NoLimitCoins](https://nolimitcoins.com/?invited_by=F1N9RX)
+
+###### The author and/or designer of this extension is not affiliated with Gold Coin Group LLC nor is it endorsed or sponsored by Gold Coin Group LLC. All trademarks and logos displayed appearing in the extension are the property of their respective owners and are protected by applicable trademark and copyright laws. By downloading or using any part of this extension, you agree to indemnify the author against any damage arising out of your arising out of your conduct and use of the program. This page does not offer any sort of legal advice. Please play responsibly. [Responsible Gameplay](https://www.chanced.com/docs/Responsible-Social-Gameplay.pdf)
+
