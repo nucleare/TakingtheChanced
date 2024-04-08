@@ -36,6 +36,13 @@ Wondering about Saving Private Ryan? Here's the explanations:
  - Select the folder directory containing the files
  - Pin it to your toolbar so you remember to turn it off and activate your third eye. (Click on the Icon to activate)
 
+## Updates
+
+### Version 1.1
+ - Removed directly navigating to previously Claim Hourly Bonus-specific URL and proceeds from the main page
+ - Added steps for Clicking on Wallet, then Hourly Bonus
+ - Console message errors were left intact for troubleshooting, though it's recommened they be removed in case the site logs those errors when they occur and noticed error messages that are not theirs.
+
 -----
 
 # What is Chanced?
