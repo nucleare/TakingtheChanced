@@ -51,8 +51,6 @@ function clickOKButton() {
     const okButton = Array.from(document.querySelectorAll("button")).find(button => button.textContent.includes('OK'));
     if (okButton) {
         okButton.click();
-        // Wait 2 second before closing the tab to ensure all processes complete
-        setTimeout(() => window.close(), 2000);
     } else {
         console.error('OK button not found.');
     }
