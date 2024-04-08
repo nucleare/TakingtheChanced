@@ -41,7 +41,7 @@ Wondering about Saving Private Ryan? Here's the explanations:
 ### Version 1.1
  - Removed directly navigating to previously Claim Hourly Bonus-specific URL and proceeds from the main page
  - Added steps for Clicking on Wallet, then Hourly Bonus
- - Console message errors were left intact for troubleshooting, though it's recommened they be removed in case the site logs those errors when they occur and noticed error messages that are not theirs.
+ - Removed all `console.log` messages while console errors messages (`console.error`) were left intact for troubleshooting, though it's recommened they be removed in case the site logs those errors when they occur and noticed error messages that are not theirs.
 
 -----
 
