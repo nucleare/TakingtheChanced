@@ -48,7 +48,7 @@ function executeContentScript() {
     const currentTabId = tabs[0].id; // Store the current tab ID
 
     // Now, create a new tab
-    chrome.tabs.create({ url: "https://www.chanced.com/?page=bonus&tab=bank", active: false }, function(newTab) {
+    chrome.tabs.create({ url: "https://www.chanced.com/", active: false }, function(newTab) {
       // Wait until the new tab's page is fully loaded
       chrome.tabs.onUpdated.addListener(function listener(tabId, info) {
         if (info.status === "complete" && tabId === newTab.id) {
@@ -59,7 +59,7 @@ function executeContentScript() {
           chrome.scripting.executeScript({
             target: { tabId: newTab.id },
             files: ["content.js"]
-          }, () => console.log("Collecting GC and SC for you"));
+          });
 
           // Optionally, immediately switch back to the original tab to keep it in focus
           chrome.tabs.update(currentTabId, {active: true});
