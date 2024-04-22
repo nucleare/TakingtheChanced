@@ -1,7 +1,13 @@
 # TakingtheChanced
-Chrome Browser Extension that helps ensure the collection of the hourly bonus on [Chanced](https://www.chanced.com/c/4zfq3z)
+Chrome Browser Extension that helps ensure the collection of the hourly bonus on [Chanced](https://www.chanced.com/c/4zfq3z). Additional feature coming soon...
+_Last checked as working April 21, 2024_
 
-_Last checked as working April 2024_
+_*Coming Soon*_
+- Adds the ability to use hotkeys when playing certain Chanced Originals games, specifically: Mines, Limbo, Dice and Dice to start.
+- - Decrease play amount by half
+  - Increase play amount by double
+  - Begin Play
+- Later to add: Blackjack
 
 # How it Works
 It connects to your neural pathways and executes mouse functions dictated by your mind every hour which means, it opens a tab, navigates to the website, clicks on the buttons you'd think about clicking on when you want to go to collect your hourly bonus. Note that it installs by default as inactive. Click on the extension icon to activate. Click it again to deactivate. Every time you de-activate and re-activate the extension, the internal timer resets and presently runs every 61-64 minutes. If you hope to run this for long periods of time, it's suggested that you increase that intermittency range in `background.js` Line 36 `getRandomTime(61, 64)` to avoid being suspected of being C3PO or R2D2.
