@@ -22,7 +22,7 @@ document.addEventListener('keydown', function(event) {
             break;
         case 'f':
             // 'f' key for "Auto Pick" button
-            button = document.querySelector("button[aria-label='Auto Pick'], button:text-contains('Auto Pick')");
+            button = Array.from(document.querySelectorAll("button")).find(button => button.textContent.includes('Auto Pick'));
             break;
     }
 
