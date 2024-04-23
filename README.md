@@ -2,7 +2,7 @@
 Chrome Browser Extension that helps ensure the collection of the hourly bonus on [Chanced](https://www.chanced.com/c/4zfq3z). Additional feature coming soon...
 _Last checked as working April 21, 2024_
 
-_*Coming Soon*_
+## This branch intends to add the following features:
 - Adds the ability to use hotkeys when playing certain Chanced Originals games, specifically: Mines, Limbo, Dice and Dice to start.
 - - Decrease play amount by half
   - Increase play amount by double
