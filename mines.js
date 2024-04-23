@@ -22,7 +22,9 @@ document.addEventListener('keydown', function(event) {
             break;
         case 'f':
             // 'f' key for "Auto Pick" button
-            button = Array.from(document.querySelectorAll("button")).find(button => button.textContent.includes('Auto Pick'));
+            button = document.querySelector("#headlessui-tabs-panel-12 > div > div.flex-none.mt-2.flex.flex-col.gap-2 > div > button");
+            // alternative selector if website changes occur breaking above reference for Auto Pick
+            // button = Array.from(document.querySelectorAll("button")).find(button => button.textContent.includes('Auto Pick'));
             break;
     }
 
